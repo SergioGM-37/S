@@ -1,0 +1,12 @@
+{
+  "name": "Biwenger Manager Pro",
+  "short_name": "BiwengerPro",
+  "description": "Herramienta avanzada para la gestión de ligas Biwenger con simulador financiero y análisis por IA.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#102216",
+  "theme_color": "#13ec5b"
+}
